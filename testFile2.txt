@@ -1,0 +1,36 @@
+Superman
+The mightiest being in the Universe!
+0
+54
+Batman
+Seemingly normal but overwhelmingly stealthy...
+3
+96
+Normal man
+Just an ordinary Human, nothing too special here.
+1
+81
+Swim guy
+A guy...who can swim pretty fast
+2
+57
+Fast man
+A human who can run fast!
+2
+73
+Harry
+A pretty cool magical Wizard
+4
+74
+Roidman
+He gets his extraordinary strength from...
+0
+88
+Big Basketball Dude
+He play's for the Bucks and is amazing!
+0
+94
+Elastic woman
+A superhero that can morph into any shape and size!
+3
+88

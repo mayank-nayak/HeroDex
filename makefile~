@@ -1,0 +1,16 @@
+default:
+
+test: TestHeroDex.class
+	java -jar junit5.jar -cp . --scan-classpath -n HeroDex
+
+TestHeroDex.class: HeroDex.java Recent.class
+	javac -cp .:junit5.jar HeroDex.java
+
+Recent.class:
+	javac MapADT.java
+	javac Hero.java
+	javac HashTableMap.java
+
+
+clean:
+ rm *.class
